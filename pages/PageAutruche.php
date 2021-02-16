@@ -14,20 +14,8 @@
 </head>
 <body>
 
-    <header class="flex-l-sb-c">
-        <div>
-            <h1>OstrichFarm 2.0</h1>
-            <h3>La ferme aux autruches connectée.</h3>
-        </div>
-        <h2>Mardi 04/04 - 20:38</h2>
-    </header>
-
-    <nav class="flex-l-sa-c">
-        <a href="#">Dashboard</a>
-        <a href="#">Autruches</a>
-        <a href="#">Enclôs</a>
-        <a href="#">Silo à grain</a>
-    </nav>
+<?php include("../components/header.php") ?>
+    <?php include("../components/nav.php") ?>
 
 
     <section id="autruche" class="wrapper">
