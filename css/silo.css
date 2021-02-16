@@ -1,0 +1,70 @@
+#dashboard #silo {
+    height: 300px;
+    width: 200;
+}
+
+#dashboard #silo #niveau {
+    height: 220px;
+    width: auto;
+    padding: 5px;
+}
+
+#dashboard #silo #nivSil {
+    height: 160px;
+    width: 140px;
+    border-bottom: solid;
+    border-right: solid;
+    border-left: solid;
+}
+
+#dashboard #silo #niv {
+    height: 70%;
+    width: 100%;
+    background-color: greenyellow;
+    font-size: 20px;
+}
+
+/********** Page silo *************/
+
+#pSilo #silo {
+}
+
+#pSilo #silo #niveau {
+    height: 500px;
+    width: auto;
+    padding: 5px;
+}
+
+#pSilo #silo #nivSil {
+    height: 400px;
+    width: 300px;
+    border-bottom: solid;
+    border-right: solid;
+    border-left: solid;
+}
+
+#pSilo #silo #niv {
+    height: 70%;
+    width: 100%;
+    background-color: greenyellow;
+    font-size: 20px;
+}
+
+
+#pSilo #commande {
+    border: solid;
+    padding: 5px;
+    width: 50%;
+}
+
+#pSilo #commande h3 { padding: 4px 0;}
+#pSilo #commande button { 
+    font-size: 16px;
+    border: solid 2px green;
+    background: green;
+    color: white;
+    padding: 3px 5px;
+    margin: 10px 0;
+}
+#pSilo #commande button:hover { background-color: white; color: green;}
+#pSilo #commande p { font-size: 12px; text-align: justify;}

@@ -1,0 +1,9 @@
+#dashboard #weather {
+    height: 100px;
+    width: 300px;
+}
+
+#dashboard img {
+    height: 50px;
+    width: auto;
+}

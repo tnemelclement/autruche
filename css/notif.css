@@ -1,0 +1,18 @@
+#dashboard #notif h3{
+    padding-top: 10px;
+}
+
+#dashboard #notif .newNotif {
+   border-bottom: solid 1px;
+   transition: 0.5s;
+}
+
+#dashboard #notif .newNotif:hover {
+    padding: 10px 0;
+    transition: 0.5s;
+}
+
+#dashboard #notif {
+    height: 350px;
+    width: 300px;
+}

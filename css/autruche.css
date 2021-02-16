@@ -1,0 +1,74 @@
+#dashboard #autruche {
+    height: 630px;
+    width: 500px;
+}
+
+#dashboard #autruche tr {
+    height: 30px;
+    border: solid;
+}
+
+#dashboard #autruche td {
+    width: 50px;
+    border: none;
+    text-align: center;
+    color: white;
+}
+
+#dashboard #autruche #carte {
+    border: solid;
+    background-image: url(../img/carte.png);
+    background-size: cover;
+}
+
+#dashboard #autruche h3 {
+    padding: 20px 0 3px 0;
+}
+
+
+/********** Autruche ************/
+
+#autruche .bloc {
+    width: 100px;
+    height: 100px;
+}
+
+/******* Page Autruche ********/
+
+#autruche img {
+    height: 200px;
+    width: 200px;
+}
+
+#autruche #blocInfo {
+    margin: 10px 0;
+    width:100%;
+}
+
+#autruche .oeuf {
+    padding: 30px 5px;
+    background-color: grey;
+    color: white;
+    margin: 2px 2px;
+    border-radius: 100%;
+    text-transform: uppercase;
+    border: solid 2px black;
+}
+
+#autruche #blocOeuf div {
+    padding: 5px;
+}
+
+#autruche #blocOeuf {
+    border-right: solid;
+    border-bottom: solid;
+    border-left: solid;
+    margin-top: 10px;
+}
+
+#autruche #blocOeuf h4 {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
